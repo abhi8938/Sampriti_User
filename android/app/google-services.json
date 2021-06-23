@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835184319865",
+    "firebase_url": "https://sampriti-android.firebaseio.com",
+    "project_id": "sampriti-android",
+    "storage_bucket": "sampriti-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835184319865:android:0dbcd837bb3a897df223a8",
+        "android_client_info": {
+          "package_name": "com.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835184319865-osek73b65eifn250va6aifjfs2lar286.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGLyf0qUihsWFMCWCy1ysfVd7YRSJQAes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835184319865-osek73b65eifn250va6aifjfs2lar286.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
